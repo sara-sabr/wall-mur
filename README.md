@@ -8,6 +8,7 @@ Add your name below the lines - Ajoutez votre nom sous les lignes.
 
 ---
 
+- Sébastien Lemay
 - Guillaume Charest
 - Sebastien Hubert
 - Jervin Francisco
