@@ -9,6 +9,7 @@ Add your name below the lines - Ajoutez votre nom sous les lignes.
 ---
 
 - Guillaume Charest
+- Sebastien Hubert
 - Jervin Francisco
 - Alan Ramunas
 - Logan Lim
