@@ -15,3 +15,4 @@ Add your name below the lines - Ajoutez votre nom sous les lignes.
 - Alan Ramunas
 - Logan Lim
 - Martin Schryer
+- Omar Nasr
